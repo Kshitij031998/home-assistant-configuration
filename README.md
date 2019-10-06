@@ -2,10 +2,10 @@
 <h1 align="center">
   <a name="logo" href="http://jeffreystone.net"><img src="https://github.com/thejeffreystone/home-assistant-configuration/blob/master/www/ahlogo_bw.png" alt="Anchorage House HA" width="200"></a>
   <br>
-  Anchorage House - Home Assistant Configuration
+  Anchorage House - Home Assistant Configuration 
 </h1>
 
-This repo contains the working [Home Assistant](https://home-assistant.io/) configuration for **Anchorage House**. Below are links to the devices currently being used, blog posts, and other HA enthusists that provided inspiration and configs to help build this config. All of the code is free to use.
+This repo contains the working [Home Assistant](https://home-assistant.io/) configuration for **Anchorage House**. Below are links to the devices currently being used, blog posts, and other HA enthusiasts that provided inspiration and configs to help build this config. All of the code is free to use.
 
 This is V4 of my config.
 
@@ -18,13 +18,13 @@ This is V4 of my config.
 
 #### General Information about Anchorage House
 
-Hassbian is the flavor of Home Assistant powering Anchorage House. Currently it is running on a RaspberryPi 3. I also have a Ubuntu Server that handles running some other things like my 433mhz data collection, and Splunk for Home Assistant data analytics. And Smartthings is currently used as a dumb hub handling most of the zwave and zigbee devices.
+Hassbian is the flavor of Home Assistant powering Anchorage House. Currently, it is running on a RaspberryPi 3. I also have a Ubuntu Server that handles running some other things like my 433mhz data collection, and Splunk for Home Assistant data analytics. And Smartthings is currently used as a dumb hub handling most of the zwave and zigbee devices.
 
 The old configurations are stored in branches for anyone that wants to see the previous iterations. However, the only branch guaranteed to work with the current version of Home Assistant is master.
 
-Read about the continuing work to automate **everything** over on my [blog](https://medium.com/@thejeffreystone). But be warned, it really hasn't been updated in a while. Feel free to reachout if you have questions. I love this stuff. 
+Read about the continuing work to automate **everything** over on my [blog](https://medium.com/@thejeffreystone). But be warned, it really hasn't been updated in a while. Feel free to reach out if you have questions. I love this stuff. 
 
-One last thing. Everything in this configuration is a combination of the things I want out of a home automation system flavored with the inspiration from other using Home Assistant. In some cases I took someone else's idea and made it my own, or I just completely stole it. So I would be remiss if I didn't acknowledge those that inpired this journey. If you like what you see here, please checkout their configs as well. I owe them thanks for sharing their work.  
+One last thing. Everything in this configuration is a combination of the things I want out of a home automation system flavored with the inspiration from others using Home Assistant. In some cases, I took someone else's idea and made it my own, or I just completely stole it. So I would be remiss if I didn't acknowledge those that inspired this journey. If you like what you see here, please checkout their configs as well. I owe them thanks for sharing their work.  
 
 * [CCOSTAN](https://github.com/CCOSTAN/Home-AssistantConfig#logo) / [https://www.vCloudInfo.com](https://www.vCloudInfo.com)
 * [Isabella Gross Alström](https://isabellaalstrom.github.io/)
